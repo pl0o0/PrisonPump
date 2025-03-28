@@ -19,10 +19,10 @@ local OpButuicorn = Instance.new("UICorner")
 OpButuicorn.Parent = OpBut
 OpBut.Parent = ScreenGui
 OpBut.Text = "Open" OpBut.TextScaled = true
-OpBut.Size = UDim2.new(0,70,0,70)
+OpBut.Size = UDim2.new(0,90,0,90)
 OpBut.Position = UDim2.new(0.17,0,0.28,0)
 OpBut.BackgroundColor3 = Color3.fromRGB(170, 0, 0)
-OpBut.BackgroundTransparency = 0.5
+OpBut.BackgroundTransparency = 0
 OpBut.TextColor3 = Color3.fromRGB(255, 255, 255)
 OpButuicorn.CornerRadius = UDim.new(0,15)
 OpBut.Font = Enum.Font.SourceSansBold
